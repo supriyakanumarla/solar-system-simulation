@@ -1,1 +1,1 @@
-# solar-system-simulation
+# 3D solar_system
